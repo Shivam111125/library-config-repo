@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: library-service
+
+info:
+  message: Welcome to Library Service via Config Server
